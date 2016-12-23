@@ -1,0 +1,9 @@
+c:\users\rowan\documents\visual studio 2015\Projects\Dice roll\Dice roll\bin\Debug\Dice roll.exe.config
+c:\users\rowan\documents\visual studio 2015\Projects\Dice roll\Dice roll\bin\Debug\Dice roll.exe
+c:\users\rowan\documents\visual studio 2015\Projects\Dice roll\Dice roll\bin\Debug\Dice roll.pdb
+c:\users\rowan\documents\visual studio 2015\Projects\Dice roll\Dice roll\obj\Debug\Dice roll.csprojResolveAssemblyReference.cache
+c:\users\rowan\documents\visual studio 2015\Projects\Dice roll\Dice roll\obj\Debug\Dice_roll.Form1.resources
+c:\users\rowan\documents\visual studio 2015\Projects\Dice roll\Dice roll\obj\Debug\Dice_roll.Properties.Resources.resources
+c:\users\rowan\documents\visual studio 2015\Projects\Dice roll\Dice roll\obj\Debug\Dice roll.csproj.GenerateResource.Cache
+c:\users\rowan\documents\visual studio 2015\Projects\Dice roll\Dice roll\obj\Debug\Dice roll.exe
+c:\users\rowan\documents\visual studio 2015\Projects\Dice roll\Dice roll\obj\Debug\Dice roll.pdb
